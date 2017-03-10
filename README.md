@@ -374,6 +374,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [lottie-react-native ★4537](https://github.com/airbnb/lottie-react-native) - a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
 - [react-native-animatable ★2069](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native (built on react-native Animated
 - [react-native-snackbar-component ★0](https://github.com/SiDevesh/React-Native-SnackBar-Component) - A snackbar component for Android and iOS, customizable and simple.
+- [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient) - A <LinearGradient /> component for react-native
 
 ### Navigation
 - [react-navigation,621 ★2586](https://github.com/react-community/react-navigation) - Easy to use Navigation for React Native
@@ -432,7 +433,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### Utils & Infra
 
-- [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient) - A <LinearGradient /> component for react-native
 - [react-native-HsvToRgb ★2](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
 - [react-native-aes ★15](https://github.com/mvayngrib/react-native-aes) - AES in react-native
 - [react-native-aws-signature ★33](https://github.com/leimd/react-native-aws-signature) - help generate signature required for using AWS API. Necessary to use S3, ec2, or other services.
