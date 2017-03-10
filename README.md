@@ -432,6 +432,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### Utils & Infra
 
+- [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient) - A <LinearGradient /> component for react-native
 - [react-native-HsvToRgb ★2](https://github.com/Copypeng/react-native-HsvToRgb) - a helper to convert HSV(HSB) color to RGB.
 - [react-native-aes ★15](https://github.com/mvayngrib/react-native-aes) - AES in react-native
 - [react-native-aws-signature ★33](https://github.com/leimd/react-native-aws-signature) - help generate signature required for using AWS API. Necessary to use S3, ec2, or other services.
