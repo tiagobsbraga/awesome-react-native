@@ -573,6 +573,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### Web
 
+- [react-native-htmlview](https://github.com/jsdf/react-native-htmlview) - A React Native component which renders HTML content as native views
 - [react-native-bridgeable-webview ★11](https://github.com/Intellicode/react-native-bridgeable-webview) - A react-native webview with bridge to react-native code
 - [react-native-browser-polyfill ★21](https://github.com/johanneslumpe/react-native-browser-polyfill) - A collection of polyfills for the react-native Javascript environment.
 - [react-native-browser ★59](https://github.com/PrestoDoctor/react-native-browser) - Full-featured web browser module for React Native apps, based on TOWebViewController
