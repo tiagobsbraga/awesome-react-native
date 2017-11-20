@@ -620,6 +620,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-camera-roll-picker ★108](https://github.com/jeanpan/react-native-camera-roll-picker) - A React Native component providing images selection from camera roll
 - [react-native-audio-streaming ★262](https://github.com/tlenclos/react-native-audio-streaming) - iOS & Android module to play an audio stream, with background support and media controls :speaker:
 - [react-native-video-processing ★112](https://github.com/shahen94/react-native-video-processing) - Native Video editing/trimming/filtering library for React-Native
+- [react-native-fast-image ★603](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component
 
 ### Storage
 
