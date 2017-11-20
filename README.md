@@ -400,6 +400,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-navigator ★72](https://github.com/thewei/react-native-navigator) - A simple router for react native
 - [react-native-yynavigator ★0](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
 - [react-native-transparent-bar ★13](https://github.com/23c/react-native-transparent-bar) - react native navigator transparent bar
+- [react-native-image-gallery ★126](https://github.com/archriss/react-native-image-gallery) - Pure JavaScript image gallery component for iOS and Android with high-performance and native feeling in mind
 
 #### Navigation/Routing Articles
 - [Basics of using react-native-router-flux](https://medium.com/@spencer_carli/react-native-basics-using-react-native-router-flux-f11e5128aff9#.di5mvrbdr)
