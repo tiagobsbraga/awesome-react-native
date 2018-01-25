@@ -239,7 +239,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-link ★7](https://github.com/650Industries/react-native-link) - A link component
 - [react-native-listitem ★73](https://github.com/dancormier/react-native-listitem) - iOS-style listitem component for React Native
 - [react-native-loader-hud ★2](https://github.com/EdgeJay/react-native-loader-hud) - Loader animation library for React Native
-- [react-native-progress-display ★5] (https://github.com/medlmobileenterprises/react-native-progress-display) - Progress HUD
+- [react-native-progress-display ★5](https://github.com/medlmobileenterprises/react-native-progress-display) - Progress HUD
 - [react-native-loading ★4](https://github.com/alcat2008/react-native-loading) - A lightweight loading for your React Native app.
 - [react-native-loading-spinner-overlay ★257](https://github.com/niftylettuce/react-native-loading-spinner-overlay) - The only pure React Native, Native iOS and Android loading spinner (progress bar indicator) overlay
 - [react-native-looped-carousel ★554](https://github.com/appintheair/react-native-looped-carousel) - Create looped carousel of views or images
